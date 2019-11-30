@@ -1,8 +1,0 @@
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/bin/Debug/netcoreapp3.0/TestHelpers.XUnit.deps.json
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/bin/Debug/netcoreapp3.0/TestHelpers.XUnit.dll
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/bin/Debug/netcoreapp3.0/TestHelpers.XUnit.pdb
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/obj/Debug/netcoreapp3.0/TestHelpers.XUnit.csprojAssemblyReference.cache
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/obj/Debug/netcoreapp3.0/TestHelpers.XUnit.AssemblyInfoInputs.cache
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/obj/Debug/netcoreapp3.0/TestHelpers.XUnit.AssemblyInfo.cs
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/obj/Debug/netcoreapp3.0/TestHelpers.XUnit.dll
-/home/chry/RiderProjects/TestHelpers/TestHelpers.XUnit/obj/Debug/netcoreapp3.0/TestHelpers.XUnit.pdb

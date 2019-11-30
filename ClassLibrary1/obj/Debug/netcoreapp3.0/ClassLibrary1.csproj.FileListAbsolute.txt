@@ -1,8 +1,0 @@
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/bin/Debug/netcoreapp3.0/ClassLibrary1.deps.json
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/bin/Debug/netcoreapp3.0/ClassLibrary1.dll
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/bin/Debug/netcoreapp3.0/ClassLibrary1.pdb
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/obj/Debug/netcoreapp3.0/ClassLibrary1.csprojAssemblyReference.cache
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/obj/Debug/netcoreapp3.0/ClassLibrary1.AssemblyInfoInputs.cache
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/obj/Debug/netcoreapp3.0/ClassLibrary1.AssemblyInfo.cs
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/obj/Debug/netcoreapp3.0/ClassLibrary1.dll
-/home/chry/RiderProjects/TestHelpers/ClassLibrary1/obj/Debug/netcoreapp3.0/ClassLibrary1.pdb
